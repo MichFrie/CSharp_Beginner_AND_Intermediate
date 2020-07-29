@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mosh-Lists", "Mosh-Lists.csproj", "{386B20CB-ADF8-4449-93F1-6CA2C14FCF77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{386B20CB-ADF8-4449-93F1-6CA2C14FCF77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{386B20CB-ADF8-4449-93F1-6CA2C14FCF77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{386B20CB-ADF8-4449-93F1-6CA2C14FCF77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{386B20CB-ADF8-4449-93F1-6CA2C14FCF77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1268890A-092D-4FC7-A81E-A89951E0FDB6}
+	EndGlobalSection
+EndGlobal

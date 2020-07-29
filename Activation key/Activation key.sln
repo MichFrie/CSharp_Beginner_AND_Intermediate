@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Activation key", "Activation key.csproj", "{BB22181D-CBC7-4286-86C5-B962410BB6CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emoji detector", "..\Emoji detector\Emoji detector.csproj", "{8FE617DB-6EFF-4ECE-8AF5-3AE26F4C45FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pirates", "..\Pirates\Pirates.csproj", "{CC9AE8B0-A386-4D79-9EF8-97B138503CA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB22181D-CBC7-4286-86C5-B962410BB6CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB22181D-CBC7-4286-86C5-B962410BB6CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB22181D-CBC7-4286-86C5-B962410BB6CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB22181D-CBC7-4286-86C5-B962410BB6CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FE617DB-6EFF-4ECE-8AF5-3AE26F4C45FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FE617DB-6EFF-4ECE-8AF5-3AE26F4C45FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FE617DB-6EFF-4ECE-8AF5-3AE26F4C45FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FE617DB-6EFF-4ECE-8AF5-3AE26F4C45FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC9AE8B0-A386-4D79-9EF8-97B138503CA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC9AE8B0-A386-4D79-9EF8-97B138503CA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC9AE8B0-A386-4D79-9EF8-97B138503CA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC9AE8B0-A386-4D79-9EF8-97B138503CA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48D51C63-9765-4D47-BFA4-12D133137E7D}
+	EndGlobalSection
+EndGlobal

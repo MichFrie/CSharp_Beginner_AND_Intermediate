@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Safari", "Safari\Safari.csproj", "{4F2F59BA-DDBD-4AF0-A2B2-1CB4DCC08AFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F2F59BA-DDBD-4AF0-A2B2-1CB4DCC08AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F2F59BA-DDBD-4AF0-A2B2-1CB4DCC08AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F2F59BA-DDBD-4AF0-A2B2-1CB4DCC08AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F2F59BA-DDBD-4AF0-A2B2-1CB4DCC08AFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B82F25D-6D7E-4760-A5C9-BBAEA2A243C6}
+	EndGlobalSection
+EndGlobal
